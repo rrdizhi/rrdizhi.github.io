@@ -2,6 +2,7 @@
 <center>
 <span style="font-size:20px">日日视频最新地址</span><br>
 <br />
+<span style="font-size:20px"><a href="https://riri.riri15.xyz" target="_blank">riri15.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://riri.riri14.xyz" target="_blank">riri14.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://riri.riri12.xyz" target="_blank">riri12.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://riri11.xyz" target="_blank">riri11.xyz</a></span><br>

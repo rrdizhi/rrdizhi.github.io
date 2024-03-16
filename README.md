@@ -12,5 +12,5 @@
 <span style="font-size:20px"><a href="https://riri2.xyz" target="_blank">riri2.xyz</a></span><br>
 <span style="font-size:20px"><a href="https://riri1.xyz" target="_blank">riri1.xyz</a></span><br>
 <br />
-<span style="font-size:20px">收藏此页，永不迷路！</span>
+<span style="font-size:20px">请将此页加入收藏夹！</span>
 </center>
